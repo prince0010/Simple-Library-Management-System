@@ -1,5 +1,5 @@
 "A Simple-Library-Management-System" 
-Created by Java 
+Created using Java 
 and Mysql database
 
 IDE used - Apache Netbeans 
